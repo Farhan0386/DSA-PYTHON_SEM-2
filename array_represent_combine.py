@@ -14,7 +14,7 @@ l=len(sum)-1
 while k<l:
     b[k],b[l]=b[l],b[k]
 print(b)
-
+print("hello    world")
 # if b==sum :
 #     print(f"number {sum} is palindrome")
 # else :
